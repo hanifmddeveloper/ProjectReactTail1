@@ -1,8 +1,8 @@
 import React from 'react'
-import Service1 from "../assets/Service1.png"
-import Service2 from "../assets/Service2.png"
-import Service3 from "../assets/Service3.png"
-import Service4 from "../assets/Service4.png"
+import Service1 from "../assets/service1.png"
+import Service2 from "../assets/service2.png"
+import Service3 from "../assets/service3.png"
+import Service4 from "../assets/service4.png"
 const Gallery = () => {
   return (
 <section>

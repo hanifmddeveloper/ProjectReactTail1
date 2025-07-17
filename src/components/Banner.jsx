@@ -16,7 +16,6 @@ const Banner = () => {
         </div>
        </Container>
     </section>
-
   )
 }
 

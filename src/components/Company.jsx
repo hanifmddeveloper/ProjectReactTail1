@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from './Container'
-import Comp2 from "../assets/Comp2.png"
+import Comp2 from "../assets/comp2.png"
 
 
 

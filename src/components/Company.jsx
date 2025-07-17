@@ -1,7 +1,7 @@
 import React from 'react'
 import Container from './Container'
 import Comp2 from "../assets/Comp2.png"
-import Comp4 from "../assets/Comp4.png"
+
 
 
 const Company = () => {
@@ -17,7 +17,7 @@ const Company = () => {
             </div>
             <div className='w-2/12' >
              <div className='flex' >
-            <img src={Comp4} alt=''/>
+            <img src={Comp2} alt=''/>
             <h2>Thevron</h2>
             </div>
             </div>
@@ -29,7 +29,7 @@ const Company = () => {
             </div>
             <div className='w-2/12'>
              <div className='flex' >
-            <img src={Comp4} alt=''/>
+            <img src={Comp2} alt=''/>
             <h2>BioSool</h2>
             </div>
             </div>

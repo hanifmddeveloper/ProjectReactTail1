@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from './Container'
-import Pet1 from "../assets/Pet1.png"
+import Pet1 from "../assets/pet1.png"
 import { IoMailOutline } from "react-icons/io5";
 import { MdPhonePaused } from "react-icons/md";
 import { BsMailbox } from "react-icons/bs";
